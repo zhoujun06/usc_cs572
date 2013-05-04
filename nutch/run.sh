@@ -1,0 +1,1 @@
+java -cp .:apache-nutch-1.6/lib/hadoop-core-1.0.3.jar:apache-nutch-1.6/lib/apache-nutch-1.6.jar:apache-nutch-1.6/lib/commons-logging-1.1.1.jar:apache-nutch-1.6/lib/commons-configuration-1.6.jar:apache-nutch-1.6/lib/commons-lang-2.6.jar PDFExtractor apache-nutch-1.6/data/segmentsa/ apache-nutch-1.6/extract/

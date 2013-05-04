@@ -1,0 +1,1 @@
+java -cp .:lib/mysql-connector-java-5.1.18-bin.jar:lib/tika-app-1.3.jar:apache-solr-3.6.2/dist/apache-solr-solrj-3.6.2.jar:apache-solr-3.6.2/dist/solrj-lib/optional/httpclient-4.1.3.jar:apache-solr-3.6.2/dist/solrj-lib/optional/httpcore-4.1.4.jar:apache-solr-3.6.2/dist/solrj-lib/optional/httpmime-4.1.3.jar GeoName
